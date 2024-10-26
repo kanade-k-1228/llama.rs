@@ -8,6 +8,19 @@
 
 </div>
 
+<details>
+<summary>git-lfs</summary>  
+
+```bash
+$ sudo apt update
+$ sudo apt install git-lfs
+$ git lfs install
+```
+
+</details>
+
+<br/>
+
 ```bash
 $ git clone git@github.com:kanade-k-1228/llama.rs.git
 $ cd llama.rs
