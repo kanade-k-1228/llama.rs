@@ -1,0 +1,8 @@
+name: "Tiny Stories 15M"
+dim: 288
+ffn_dim: 768
+layer: 6
+head: 6
+kv_head: 6
+vocab_size: 32000
+seq_len: 256

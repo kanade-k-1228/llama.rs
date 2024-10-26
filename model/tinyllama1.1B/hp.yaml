@@ -1,0 +1,8 @@
+name: "Tiny Llama 1.1B"
+dim: 2048
+ffn_dim: 5632
+layer: 22
+head: 32
+kv_head: 12
+vocab_size: 32000
+seq_len: 2048

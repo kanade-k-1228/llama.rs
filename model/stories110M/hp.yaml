@@ -1,0 +1,8 @@
+name: "Tiny Stories 110M"
+dim: 768
+ffn_dim: 2048
+layer: 12
+head: 12
+kv_head: 12
+vocab_size: 32000
+seq_len: 1024

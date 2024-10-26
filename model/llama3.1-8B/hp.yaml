@@ -1,0 +1,8 @@
+name: "llama 3.1 8B"
+dim: 4096
+ffn_dim: 14336
+layer: 32
+head: 32
+kv_head: 8
+vocab_size: 128000
+seq_len: 500000
